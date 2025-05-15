@@ -20,4 +20,3 @@ This is a console-based Java Task Management System developed to practice and de
 - JUnit 5
 - JaCoCo (Code Coverage)
 - SonarQube (Static Analysis)
-- CLI/IDE (for test execution)
